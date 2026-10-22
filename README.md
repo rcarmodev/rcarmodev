@@ -39,3 +39,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas (UNESA)** em transição d
 
 ### 🤝 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Carmo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcarmodev)
+
+<details>
+<summary>🌍 <i>Click to enter the new world...</i></summary>
+
+> *"Welcome, wanderer, to a quieter shore. May this new world treat you gently, and may your journey among the stars bring you peace."*
+
+</details>
