@@ -13,6 +13,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas (UNESA)** em transição d
 
 ---
 
+### 💡 Projetos & Soluções em Destaque
+- ☕ [Gestão de Estoque & Balanço Comercial (Java / Spring Boot)](https://github.com/rcarmodev/gestao-estoque-peixaria): Modelagem de API REST para controle e inventário de mercadorias.
+- 🏷️ [Sistema de Validade ANVISA (Java Core)](https://github.com/rcarmodev/sistema-validade-etiquetas-anvisa): Aplicação para conformidade de normas sanitárias e geração/impressão de etiquetas térmicas ESC/POS.
+- 🤖 **Automação de Processos & Web Scraping (Python):** Scripts práticos para automação de tarefas manuais, tratamento de dados e monitoramento.
+
+---
+
 ### 💻 Minha Stack & Ferramentas em Desenvolvimento
 
 **Linguagens & Backend:**  
